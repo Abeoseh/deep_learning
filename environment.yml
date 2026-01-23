@@ -14,4 +14,5 @@ dependencies:
   - pip:
     - jupyterlab-rise
     - tensorflow
+    - seaborn
 
