@@ -11,8 +11,10 @@ dependencies:
   - matplotlib=3.9.1
   - jupyter
   - pip
+  - graphviz
   - pip:
     - jupyterlab-rise
     - tensorflow
     - seaborn
+    - pydot
 
