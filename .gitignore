@@ -6,3 +6,8 @@ labs/lab6/train/
 labs/lab6/*.zip
 assignments/assignment2/card_archive/
 assignments/assignment2/*.zip
+assignments/assignment2/*h5
+assignments/assignment2/card_archive/
+assignments/assignment2/carvana-image-masking-challenge/
+assignments/assignment2/untitled_project/
+assignments/assignment2/tuner_results/
