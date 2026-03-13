@@ -10,5 +10,8 @@ assignments/assignment2/*h5
 assignments/assignment2/card_archive/
 assignments/assignment2/carvana-image-masking-challenge/
 assignments/assignment2/untitled_project/
+assignments/assignment2/aug_tuner_results/
+assignments/assignment2/noaug_tuner_results/
 assignments/assignment2/tuner_results/
+assignments/assignment2/noaug_tuner_results/classify_noaug/oracle.json
 assignments/assignment2/*.keras
